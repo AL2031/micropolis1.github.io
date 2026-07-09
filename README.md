@@ -1,9 +1,35 @@
-micropolisJS
-============
+# Personal Website - al2031
 
-https://www.graememcc.co.uk/micropolisJS
+A hacker terminal-styled personal website showcasing coding projects, YouTube content, and music.
 
-A port of Micropolis to JS/HTML5. The code is licensed under the GPLv3, with some additional terms - please be mindful of these. Likewise, be aware that the code is additionally governed by the Micropolis Public Name License as detailed in the next paragraph; this too must be complied with.
+## Features
+- 🖥️ Terminal-style design with green glow effects
+- 📱 Fully responsive layout
+- 🎯 Smooth navigation and animations
+- 🚀 Hosted on GitHub Pages
 
-## [Micropolis Public Name License](MicropolisPublicNameLicense.md) ##
-The name/term "MICROPOLIS" is a registered trademark of [Micropolis](https://www.micropolis.com) GmbH (Micropolis Corporation, the "licensor") and is licensed here to the authors/publishers of the "Micropolis" city simulation game and its source code (the project or "licensee(s)") as a courtesy of the owner.
+## How to Customize
+
+1. **Edit `index.html`** - Replace placeholders:
+   - `[YOUR_NAME_HERE]` - Your name
+   - `[YOUR_BIO_HERE]` - Your bio
+   - `[YOUR_YOUTUBE_URL]` - Your YouTube channel link
+   - `[YOUR_EMAIL]` - Your email
+
+2. **Update Projects** - Add your GitHub projects in the projects section
+
+3. **Add Content** - Update YouTube and Violin sections with your content/links
+
+## Deployment
+
+Your website is automatically deployed to: `https://al2031.github.io`
+
+Just edit the files and push to GitHub!
+
+## Customization Tips
+
+- Change colors in `style.css` (look for `:root` variables)
+- Modify animations in `script.js`
+- Add more sections by copying existing section patterns
+
+Enjoy! 🚀
